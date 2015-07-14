@@ -26,143 +26,143 @@ Style: Default,Arial,86,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:01.96,0:00:03.96,Default,,0,0,0,,Mahabharata
 Dialogue: 0,0:00:04.00,0:00:07.00,Default,,0,0,0,,Pirma serija
-Dialogue: 0,0:00:08.70,0:00:12.20,Default,,0,0,0,,Tai pasakojimas apie didžią kovą
-Dialogue: 0,0:00:13.80,0:00:17.30,Default,,0,0,0,,papasakotą viso pasaulio labui
-Dialogue: 0,0:00:19.20,0:00:21.70,Default,,0,0,0,,apie teisumą ir nuodėmingumą,
+Dialogue: 0,0:00:08.70,0:00:12.20,Default,,0,0,0,,Tai pasakojimas apie didžią kovą,
+Dialogue: 0,0:00:13.80,0:00:17.30,Default,,0,0,0,,perteiktas viso pasaulio labui.
+Dialogue: 0,0:00:19.20,0:00:21.70,Default,,0,0,0,,Jis apie teisumą ir nuodėmingumą,
 Dialogue: 0,0:00:21.74,0:00:24.74,Default,,0,0,0,,apie senovę ir amžinybę,
 Dialogue: 0,0:00:24.78,0:00:27.08,Default,,0,0,0,,apie teisybę ir neteisybę,
 Dialogue: 0,0:00:27.20,0:00:30.20,Default,,0,0,0,,apie egoizmą ir nesavanaudiškumą.
-Dialogue: 0,0:00:30.50,0:00:35.00,Default,,0,0,0,,Jame yra jėga ir yra meilė Dievui,
+Dialogue: 0,0:00:30.50,0:00:35.00,Default,,0,0,0,, Jis suteikia jėgą ir meilę Dievui,
 Dialogue: 0,0:00:35.10,0:00:38.60,Default,,0,0,0,,jame - kelias į išsilaisvinimą iš gimimų ir mirčių rato
 Dialogue: 0,0:00:38.76,0:00:42.26,Default,,0,0,0,,jame - pati gyvenimo esmė,
-Dialogue: 0,0:00:42.30,0:00:45.20,Default,,0,0,0,,jame - viešpaties Krišnos šlovė
-Dialogue: 0,0:00:45.24,0:00:49.16,Default,,0,0,0,,ir didybė "Dieviškosios giesmės" (Bhagavad Gitos)!
-Dialogue: 0,0:00:49.20,0:00:54.20,Default,,0,0,0,,Iš visų istorijų "Mahabharata" - pati didžiausia!
+Dialogue: 0,0:00:42.30,0:00:45.20,Default,,0,0,0,,jame - Viešpaties Krišnos šlovė
+Dialogue: 0,0:00:45.24,0:00:49.16,Default,,0,0,0,,ir didybė "Dieviškosios giesmės" (Bhagavadgytos)!
+Dialogue: 0,0:00:49.20,0:00:54.20,Default,,0,0,0,, "Mahabharata" - pati  kilniausia iš visų istorijų!
 Dialogue: 0,0:00:56.60,0:01:00.60,Default,,0,0,0,,"Mahabharata"!
 Dialogue: 0,0:01:36.32,0:01:40.32,Default,,0,0,0,,Kaip čia tylu, kokia ramybė!
-Dialogue: 0,0:01:44.64,0:01:50.14,Default,,0,0,0,,šalia tavęs man visada taip gera ir ramu, Satjavati.
-Dialogue: 0,0:01:56.20,0:02:00.20,Default,,0,0,0,,Rūpesčiai apie karalystę, karai,
+Dialogue: 0,0:01:44.64,0:01:50.14,Default,,0,0,0,,Šalia tavęs man visada taip gera ir ramu, Satjavati.
+Dialogue: 0,0:01:56.20,0:02:00.20,Default,,0,0,0,,Rūpesčiai dėl karalystės, karai,
 Dialogue: 0,0:02:00.36,0:02:03.86,Default,,0,0,0,,varžytuvės, nauji užmojai ir strategijos,
-Dialogue: 0,0:02:03.90,0:02:07.90,Default,,0,0,0,,ginčai apie pareigą ir teisingumą
-Dialogue: 0,0:02:14.80,0:02:18.80,Default,,0,0,0,,— visa tai man tapo nereikšminga.
-Dialogue: 0,0:02:20.88,0:02:24.88,Default,,0,0,0,,Satjavati, kas gali būti geriau nei ramybė?
-Dialogue: 0,0:02:30.88,0:02:33.88,Default,,0,0,0,,Noras gyventi, Maharadž!
+Dialogue: 0,0:02:03.90,0:02:07.90,Default,,0,0,0,,ginčai apie pareigą ir teisingumą -
+Dialogue: 0,0:02:14.80,0:02:18.80,Default,,0,0,0,,visa tai man nebereikšminga.
+Dialogue: 0,0:02:20.88,0:02:24.88,Default,,0,0,0,,Satjavati, kas gali būti geriau už ramybę?
+Dialogue: 0,0:02:30.88,0:02:33.88,Default,,0,0,0,,Noras gyventi, Maharadžai!
 Dialogue: 0,0:02:34.36,0:02:37.56,Default,,0,0,0,,Kova ir siekis laimėti
-Dialogue: 0,0:02:37.60,0:02:39.16,Default,,0,0,0,,duoda mums gyvenimo skonį!
-Dialogue: 0,0:02:39.20,0:02:43.68,Default,,0,0,0,,Vadinasi, kovą tu myli labiau,
-Dialogue: 0,0:02:43.72,0:02:46.22,Default,,0,0,0,,negu ramybę!
+Dialogue: 0,0:02:37.60,0:02:39.16,Default,,0,0,0,,suteikia mūsų gyvenimui skonio!
+Dialogue: 0,0:02:39.20,0:02:43.68,Default,,0,0,0,,Vadinasi, kova tau svarbiau už
+Dialogue: 0,0:02:43.72,0:02:46.22,Default,,0,0,0,, ramybę!
 Dialogue: 0,0:02:46.84,0:02:49.56,Default,,0,0,0,,Ramybės nori tas,
 Dialogue: 0,0:02:49.60,0:02:53.60,Default,,0,0,0,,kas pavargo nuo malonumų.
 Dialogue: 0,0:02:53.72,0:02:56.22,Default,,0,0,0,,Bet tas, kas visada gyveno ramiai,
 Dialogue: 0,0:02:56.32,0:03:00.82,Default,,0,0,0,,svajos tik apie malonumus.
-Dialogue: 0,0:03:01.28,0:03:03.72,Default,,0,0,0,,Taika ir ramybė ateina tik po kovos!
-Dialogue: 0,0:03:03.76,0:03:07.26,Default,,0,0,0,,Argi ne taip karaliau Šantanu?
+Dialogue: 0,0:03:01.28,0:03:03.72,Default,,0,0,0,,Taika ir ramybė stoja tik po kovos!
+Dialogue: 0,0:03:03.76,0:03:07.26,Default,,0,0,0,,Argi ne taip, karaliau Šantanu?
 Dialogue: 0,0:03:07.52,0:03:10.02,Default,,0,0,0,,Satjavati!
-Dialogue: 0,0:03:33.76,0:03:36.12,Default,,0,0,0,,Ką tu darai Satjavati?
+Dialogue: 0,0:03:33.76,0:03:36.12,Default,,0,0,0,,Ką tu darai, Satjavati?
 Dialogue: 0,0:03:36.16,0:03:40.16,Default,,0,0,0,,Noriu pajusti malonumą!
 Dialogue: 0,0:03:56.88,0:03:58.56,Default,,0,0,0,,Paleisk ją, Satjavati!
 Dialogue: 0,0:03:58.60,0:04:01.60,Default,,0,0,0,,Tai labai stipri žuvis.
-Dialogue: 0,0:04:01.72,0:04:03.72,Default,,0,0,0,,Tu nesugebėsi ją pagauti!
-Dialogue: 0,0:04:03.76,0:04:08.26,Default,,0,0,0,,Aš nesugebėsiu? Aš - žvejų karaliaus dukra.
-Dialogue: 0,0:04:16.24,0:04:17.56,Default,,0,0,0,,Palaukite, Maharadž!
-Dialogue: 0,0:04:17.60,0:04:22.10,Default,,0,0,0,,Pažadėkite, kad nepadėsite man!
+Dialogue: 0,0:04:01.72,0:04:03.72,Default,,0,0,0,,Nepavyks jos pagauti!
+Dialogue: 0,0:04:03.76,0:04:08.26,Default,,0,0,0,,Man nepavyks? Aš - žvejų karaliaus dukra.
+Dialogue: 0,0:04:16.24,0:04:17.56,Default,,0,0,0,,Palaukite, Maharadžai!
+Dialogue: 0,0:04:17.60,0:04:22.10,Default,,0,0,0,,Pažadėkite, kad man nepadėsite!
 Dialogue: 0,0:04:28.24,0:04:30.24,Default,,0,0,0,,Sustok, Satjavati!
 Dialogue: 0,0:04:30.28,0:04:33.08,Default,,0,0,0,,Aš įsakysiu žvejams, ir jie pagaus šią žuvį tau!
-Dialogue: 0,0:04:33.12,0:04:35.76,Default,,0,0,0,,Nenoriu laukti taip ilgai, Maharadž!
-Dialogue: 0,0:04:35.80,0:04:37.36,Default,,0,0,0,,Žuvis jau ant kabliuko,
-Dialogue: 0,0:04:37.40,0:04:40.90,Default,,0,0,0,,aš neduosiu jai galimybės pasprukti!
+Dialogue: 0,0:04:33.12,0:04:35.76,Default,,0,0,0,,Nenoriu taip ilgai laukti, Maharadžai!
+Dialogue: 0,0:04:35.80,0:04:37.36,Default,,0,0,0,,Žuvis jau užkibo,
+Dialogue: 0,0:04:37.40,0:04:40.90,Default,,0,0,0,,neleisiu jai pasprukti!
 Dialogue: 0,0:04:46.16,0:04:48.66,Default,,0,0,0,,Satjavati!
-Dialogue: 0,0:06:18.36,0:06:23.12,Default,,0,0,0,,Aš nežinojau, kad tokios švelnios rankos, tokios stiprios.
-Dialogue: 0,0:06:23.16,0:06:26.44,Default,,0,0,0,,Maharadž Šantanu, Jūs - karys!
-Dialogue: 0,0:06:26.48,0:06:29.76,Default,,0,0,0,,Jūs - Hastinapūro valdovas. Pas Jus didžiulė karalystė!
-Dialogue: 0,0:06:29.80,0:06:34.52,Default,,0,0,0,,Jūs ko gero žinote, kad jėga yra ne rankose,
-Dialogue: 0,0:06:34.56,0:06:38.06,Default,,0,0,0,,ji gyvena mūsų širdyje.
+Dialogue: 0,0:06:18.36,0:06:23.12,Default,,0,0,0,,Nemaniau, kad švelnios rankos gali būti tokios stiprios.
+Dialogue: 0,0:06:23.16,0:06:26.44,Default,,0,0,0,,Maharadžai Šantanu, jūs - karys!
+Dialogue: 0,0:06:26.48,0:06:29.76,Default,,0,0,0,,Jūs - Hastinapūro valdovas. Turintis didžiulę karalystę!
+Dialogue: 0,0:06:29.80,0:06:34.52,Default,,0,0,0,,Ko gero žinote, kad jėga slypi ne rankose,
+Dialogue: 0,0:06:34.56,0:06:38.06,Default,,0,0,0,,ji mūsų širdyje.
 Dialogue: 0,0:06:38.44,0:06:41.56,Default,,0,0,0,,Širdies jėga - jos noruose!
-Dialogue: 0,0:06:41.60,0:06:45.84,Default,,0,0,0,,Gerai, kai visi žmogaus norai telpa viename jo delne,
+Dialogue: 0,0:06:41.60,0:06:45.84,Default,,0,0,0,,Gerai, kai visi žmogaus norai telpa jo delne,
 Dialogue: 0,0:06:45.88,0:06:49.88,Default,,0,0,0,,ir jis gali juos suvaldyti, Satjavati.
-Dialogue: 0,0:06:49.92,0:06:54.36,Default,,0,0,0,,Maharadž! Dievas mums davė tokias mažas akis, Maharadž!
-Dialogue: 0,0:06:54.40,0:06:56.60,Default,,0,0,0,,tačiau jų pagalba
-Dialogue: 0,0:06:56.64,0:06:59.84,Default,,0,0,0,,mes galim matyti begalinį dangų.
-Dialogue: 0,0:06:59.88,0:07:01.80,Default,,0,0,0,,Ar ne taip, Maharadž?
-Dialogue: 0,0:07:01.84,0:07:07.34,Default,,0,0,0,,Argi aš galiu supykdyti Dievą savo kukliais norais?
+Dialogue: 0,0:06:49.92,0:06:54.36,Default,,0,0,0,,Maharadžai! Dievas mūsų akis sutvėrė tokias mažas, Maharadžai!
+Dialogue: 0,0:06:54.40,0:06:56.60,Default,,0,0,0,,Tačiau jos
+Dialogue: 0,0:06:56.64,0:06:59.84,Default,,0,0,0,,regi begalinį dangų.
+Dialogue: 0,0:06:59.88,0:07:01.80,Default,,0,0,0,,Ar ne taip, Maharadžai?
+Dialogue: 0,0:07:01.84,0:07:07.34,Default,,0,0,0,,Argi galima supykdyti Dievą savo kukliais norais?
 Dialogue: 0,0:08:31.64,0:08:34.14,Default,,0,0,0,,Norai, viltys,
 Dialogue: 0,0:08:34.28,0:08:36.78,Default,,0,0,0,,lūkesčiai, ambicijos
 Dialogue: 0,0:08:37.16,0:08:41.16,Default,,0,0,0,,skatina žmones veikti.
 Dialogue: 0,0:08:41.20,0:08:43.48,Default,,0,0,0,,Argi ne taip?
-Dialogue: 0,0:08:43.52,0:08:46.12,Default,,0,0,0,,Jei kas jūsų paklaus
-Dialogue: 0,0:08:46.16,0:08:48.48,Default,,0,0,0,,- kas jūs?
-Dialogue: 0,0:08:48.52,0:08:52.02,Default,,0,0,0,,Ką jūs atsakysite?
+Dialogue: 0,0:08:43.52,0:08:46.12,Default,,0,0,0,,Jei kas jūsų paklaus,
+Dialogue: 0,0:08:46.16,0:08:48.48,Default,,0,0,0,,kas jūs,
+Dialogue: 0,0:08:48.52,0:08:52.02,Default,,0,0,0,,ką atsakysite?
 Dialogue: 0,0:08:52.48,0:08:54.98,Default,,0,0,0,,Pagalvokite!
-Dialogue: 0,0:08:58.76,0:09:01.76,Default,,0,0,0,,Jūs pamatysite, kad jūsų gyvenimą
-Dialogue: 0,0:09:01.80,0:09:04.64,Default,,0,0,0,,valdo tik jūsų troškimai.
-Dialogue: 0,0:09:04.68,0:09:06.84,Default,,0,0,0,,Jūs džiaugiatės, kada gaunate ko norite,
-Dialogue: 0,0:09:06.88,0:09:10.24,Default,,0,0,0,,ir liūdite, kada nepasiekiate
+Dialogue: 0,0:08:58.76,0:09:01.76,Default,,0,0,0,,Išvysite, kad jūsų gyvenimą
+Dialogue: 0,0:09:01.80,0:09:04.64,Default,,0,0,0,,valdo vien troškimai.
+Dialogue: 0,0:09:04.68,0:09:06.84,Default,,0,0,0,,Jūs džiaugiatės, kai gaunate, ko norite,
+Dialogue: 0,0:09:06.88,0:09:10.24,Default,,0,0,0,,ir liūdite, kai nepasiekiate
 Dialogue: 0,0:09:10.28,0:09:12.78,Default,,0,0,0,,savo tikslo.
-Dialogue: 0,0:09:13.64,0:09:15.84,Default,,0,0,0,,Žmonės leidžia visą savo gyvenimą
-Dialogue: 0,0:09:15.88,0:09:17.76,Default,,0,0,0,,kad pasiektų savo tikslus.
-Dialogue: 0,0:09:17.80,0:09:22.56,Default,,0,0,0,,Bet troškimai žudo žmones iš vidaus, o pačių norų neįmanoma sunaikinti!
-Dialogue: 0,0:09:22.60,0:09:24.76,Default,,0,0,0,,Norai traukia žmones,
-Dialogue: 0,0:09:24.80,0:09:30.30,Default,,0,0,0,,kaip miražas, verčia elnią bėgti prie vandens, kurio nėra.
-Dialogue: 0,0:09:30.44,0:09:33.84,Default,,0,0,0,,Bet viduje, kiekvieno troškimo
-Dialogue: 0,0:09:33.88,0:09:37.38,Default,,0,0,0,,paslėpta žinių šviesa.
+Dialogue: 0,0:09:13.64,0:09:15.84,Default,,0,0,0,,Žmonės visą gyvenimą
+Dialogue: 0,0:09:15.88,0:09:17.76,Default,,0,0,0,,vien siekia savo tikslų.
+Dialogue: 0,0:09:17.80,0:09:22.56,Default,,0,0,0,,Bet troškimai naikina juos iš vidaus, pačių norų sunaikinti neįmanoma!
+Dialogue: 0,0:09:22.60,0:09:24.76,Default,,0,0,0,,Norai traukia žmones
+Dialogue: 0,0:09:24.80,0:09:30.30,Default,,0,0,0,,kaip miražas, gena elnią prie vandens, kurio nėra.
+Dialogue: 0,0:09:30.44,0:09:33.84,Default,,0,0,0,,Bet kiekvienas troškimas
+Dialogue: 0,0:09:33.88,0:09:37.38,Default,,0,0,0,,slepia žinojimo šviesą.
 Dialogue: 0,0:09:37.60,0:09:40.10,Default,,0,0,0,,Kaip tai?
 Dialogue: 0,0:09:40.32,0:09:43.12,Default,,0,0,0,,Kada troškimai neišsipildo
 Dialogue: 0,0:09:43.16,0:09:45.28,Default,,0,0,0,,ir miršta visos viltys,
 Dialogue: 0,0:09:45.32,0:09:49.82,Default,,0,0,0,,žmogaus širdyje gali užgimti
-Dialogue: 0,0:09:49.92,0:09:51.42,Default,,0,0,0,,žinių šviesa.
+Dialogue: 0,0:09:49.92,0:09:51.42,Default,,0,0,0,,žinojimo šviesa.
 Dialogue: 0,0:09:51.48,0:09:53.48,Default,,0,0,0,,Ne,
-Dialogue: 0,0:09:53.48,0:09:57.16,Default,,0,0,0,,mūsų pasakojimas bus ne tik, apie troškimų kovą!
+Dialogue: 0,0:09:53.48,0:09:57.16,Default,,0,0,0,,mūsų pasakojimas ne tik apie troškimų kovą!
 Dialogue: 0,0:09:57.20,0:10:02.40,Default,,0,0,0,,Ne tik apie baisius kraujo praliejimus, pagimdytus ambicijų!
-Dialogue: 0,0:10:02.48,0:10:04.28,Default,,0,0,0,,Mes papasakosim, apie tai,
+Dialogue: 0,0:10:02.48,0:10:04.28,Default,,0,0,0,,Mes papasakosim apie tai,
 Dialogue: 0,0:10:04.32,0:10:09.32,Default,,0,0,0,,kaip iš norų įsčių gimsta išmintis.
 Dialogue: 0,0:10:13.32,0:10:15.24,Default,,0,0,0,,Aš,
 Dialogue: 0,0:10:15.28,0:10:17.64,Default,,0,0,0,,Krišna, Vasudevos sūnus,
 Dialogue: 0,0:10:17.68,0:10:21.68,Default,,0,0,0,,kviečiu jus į kelionę,
 Dialogue: 0,0:10:22.20,0:10:25.44,Default,,0,0,0,,kuri atvers jums gyvenimo prasmę.
-Dialogue: 0,0:10:25.48,0:10:28.12,Default,,0,0,0,,Šis pasakojimas apie dharmą ir apie žmonių likimus,
-Dialogue: 0,0:10:28.16,0:10:33.16,Default,,0,0,0,,kurie išliko lotosais, pakilusiais virš purvo.
+Dialogue: 0,0:10:25.48,0:10:28.12,Default,,0,0,0,,Šis pasakojimas apie dharmą ir apie likimus žmonių,
+Dialogue: 0,0:10:28.16,0:10:33.16,Default,,0,0,0,,kurie tarsi  lotosai, iškilo virš purvo.
 Dialogue: 0,0:10:33.92,0:10:37.20,Default,,0,0,0,,Ši kelionė vadinasi
-Dialogue: 0,0:10:37.24,0:10:39.74,Default,,0,0,0,,- Mahabharata!
-Dialogue: 0,0:11:09.40,0:11:13.90,Default,,0,0,0,,Viename Hastinapūro kaime.
+Dialogue: 0,0:10:37.24,0:10:39.74,Default,,0,0,0,,Mahabharata!
+Dialogue: 0,0:11:09.40,0:11:13.90,Default,,0,0,0,,Veiksmas vyksta viename Hastinapūro kaime.
 Dialogue: 0,0:12:39.20,0:12:41.56,Default,,0,0,0,,Kur gi Jūs, karaliau Šantanu?
 Dialogue: 0,0:12:41.60,0:12:45.10,Default,,0,0,0,,Apginkite savo pavaldinius!
-Dialogue: 0,0:13:09.28,0:13:12.56,Default,,0,0,0,,Hastinapūras pasmerktas prakeikimui!
+Dialogue: 0,0:13:09.28,0:13:12.56,Default,,0,0,0,,Hastinapūras pasmerktas prakeiksmui!
 Dialogue: 0,0:13:12.60,0:13:15.20,Default,,0,0,0,,Mūsų karalius nevedęs.
-Dialogue: 0,0:13:15.24,0:13:18.52,Default,,0,0,0,,Karalius negali pravesti jagjos, be žmonos!
-Dialogue: 0,0:13:18.56,0:13:20.88,Default,,0,0,0,,Karalystė, kurioje nenusilenkiama Dievui,
+Dialogue: 0,0:13:15.24,0:13:18.52,Default,,0,0,0,,Karalius, neturintis žmonos, negali atlikti jagjos!
+Dialogue: 0,0:13:18.56,0:13:20.88,Default,,0,0,0,,Karalystė, kurioje nesilenkiama Dievui,
 Dialogue: 0,0:13:20.92,0:13:23.16,Default,,0,0,0,,prakeikta.
-Dialogue: 0,0:13:23.20,0:13:27.70,Default,,0,0,0,,Kas dabar išgelbės Hastinapūro karalystę?
+Dialogue: 0,0:13:23.20,0:13:27.70,Default,,0,0,0,,Kas išgelbės Hastinapūro karalystę?
 Dialogue: 0,0:14:08.80,0:14:10.80,Default,,0,0,0,,Pušpakai!
 Dialogue: 0,0:14:38.84,0:14:43.84,Default,,0,0,0,,Kas tu, išdrįsęs mesti iššūkį rakšasui Hidai?
 Dialogue: 0,0:14:53.28,0:14:56.28,Default,,0,0,0,,Iššūkiai metami kariams!
-Dialogue: 0,0:14:56.32,0:15:01.32,Default,,0,0,0,,O jus plėšikus, įspėju! ...Hida!
-Dialogue: 0,0:16:12.64,0:16:16.14,Default,,0,0,0,,Jūs rakšasai, barbarai, turit gyventi savo žemėje!
-Dialogue: 0,0:16:16.20,0:16:18.88,Default,,0,0,0,,Jums draudžiama pažeisti Bharatos žemių sienas!
-Dialogue: 0,0:16:18.92,0:16:23.28,Default,,0,0,0,,Žmonės iš jūsų giminės iškirto mišką mūsų šalyje!
+Dialogue: 0,0:14:56.32,0:15:01.32,Default,,0,0,0,,O jus, plėšikus, įspėju! Hida!
+Dialogue: 0,0:16:12.64,0:16:16.14,Default,,0,0,0,,Jūs, rakšasai, esate barbarai ir turit gyventi savo žemėje!
+Dialogue: 0,0:16:16.20,0:16:18.88,Default,,0,0,0,,Jums draudžiama kirsti Bharatos žemių sienas!
+Dialogue: 0,0:16:18.92,0:16:23.28,Default,,0,0,0,,Jūsų giminiečiai iškirto mūsų šalies mišką!
 Dialogue: 0,0:16:23.32,0:16:25.44,Default,,0,0,0,,Jie užpuolė mūsų žemes!
 Dialogue: 0,0:16:25.48,0:16:28.32,Default,,0,0,0,,Jeigu tai teisybė,
 Dialogue: 0,0:16:28.36,0:16:30.16,Default,,0,0,0,,aš pažadu,
-Dialogue: 0,0:16:30.20,0:16:32.28,Default,,0,0,0,,kad nuo dabar Bharatos gyventojai ir rakšasai
+Dialogue: 0,0:16:30.20,0:16:32.28,Default,,0,0,0,,kad nuo šiol Bharatos gyventojai ir rakšasai
 Dialogue: 0,0:16:32.32,0:16:37.32,Default,,0,0,0,,neperžengs vieni kitų žemių sienų.
 Dialogue: 0,0:16:39.40,0:16:44.40,Default,,0,0,0,,Tu privalai išlaisvinti kaimo gyventojus!
 Dialogue: 0,0:17:22.16,0:17:24.66,Default,,0,0,0,,Sustokite!
-Dialogue: 0,0:17:25.44,0:17:30.44,Default,,0,0,0,,Aš karalius Šantanu! Kaip išdrįsote įeiti į mano karalystę, rakšasai?
-Dialogue: 0,0:17:30.48,0:17:33.48,Default,,0,0,0,,Dabar niekam iš rakšasų nebus pasigailėjimo!
+Dialogue: 0,0:17:25.44,0:17:30.44,Default,,0,0,0,,Aš - karalius Šantanu! Kaip drįsote įeiti į mano karalystę, rakšasai?
+Dialogue: 0,0:17:30.48,0:17:33.48,Default,,0,0,0,,Nė vienas iš rakšasų nesulauks pasigailėjimo!
 Dialogue: 0,0:17:33.52,0:17:35.72,Default,,0,0,0,,Į mūšį!
 Dialogue: 0,0:17:35.76,0:17:37.76,Default,,0,0,0,,Palaukite!
-Dialogue: 0,0:17:37.92,0:17:41.92,Default,,0,0,0,,Aš šiems rakšasams leidau pasitraukti!
-Dialogue: 0,0:17:42.12,0:17:46.00,Default,,0,0,0,,Nuo šiol jie nepuldinės Bharatos žemių.
-Dialogue: 0,0:17:46.04,0:17:47.72,Default,,0,0,0,,Todėl dabar
-Dialogue: 0,0:17:47.76,0:17:49.96,Default,,0,0,0,,niekas jų nepuls.
+Dialogue: 0,0:17:37.92,0:17:41.92,Default,,0,0,0,,Aš leidau šiems rakšasams pasitraukti!
+Dialogue: 0,0:17:42.12,0:17:46.00,Default,,0,0,0,,Jie daugiau nepuldinės Bharatos žemių.
+Dialogue: 0,0:17:46.04,0:17:47.72,Default,,0,0,0,,Todėl ir jų dabar
+Dialogue: 0,0:17:47.76,0:17:49.96,Default,,0,0,0,,niekas nepuls.
 Dialogue: 0,0:17:50.00,0:17:53.00,Default,,0,0,0,,Kas drįsta man įsakinėti?
 Dialogue: 0,0:17:53.04,0:17:55.84,Default,,0,0,0,,Kokia jėga suteikia Jums teisę taip kalbėti?
 Dialogue: 0,0:17:55.88,0:17:59.32,Default,,0,0,0,,Savo jėgą visada galima įrodyti kovoje!
 Dialogue: 0,0:17:59.36,0:18:00.64,Default,,0,0,0,,Teisė dar neįrodo jėgos!
-Dialogue: 0,0:18:00.68,0:18:03.68,Default,,0,0,0,,Ne žodžiais o darbais
+Dialogue: 0,0:18:00.68,0:18:03.68,Default,,0,0,0,,Ne žodžiais, o darbais
 Dialogue: 0,0:18:03.96,0:18:07.76,Default,,0,0,0,,turite įrodyti savo jėgą!
 Dialogue: 0,0:18:07.80,0:18:09.96,Default,,0,0,0,,Kaip Jūs apginsite rakšasus?
 Dialogue: 0,0:18:10.00,0:18:12.00,Default,,0,0,0,,Mano armija yra prieš juos!
-Dialogue: 0,0:18:12.04,0:18:15.24,Default,,0,0,0,,Jiems nėra išsigelbėjimo!
+Dialogue: 0,0:18:12.04,0:18:15.24,Default,,0,0,0,,Jiems neišsigelbėti!
 Dialogue: 0,0:18:23.80,0:18:27.48,Default,,0,0,0,,Motina Ganga sustabdys savo tėkmę
 Dialogue: 0,0:18:27.52,0:18:29.80,Default,,0,0,0,,ir leis jiems grįžti
 Dialogue: 0,0:18:29.84,0:18:32.84,Default,,0,0,0,,į savo šalį.
@@ -171,232 +171,233 @@ Dialogue: 0,0:19:14.56,0:19:17.06,Default,,0,0,0,,Kas Jūs?
 Dialogue: 0,0:19:17.20,0:19:21.88,Default,,0,0,0,,Kodėl Ganga paklausė Jūsų prašymo ir sustojo?
 Dialogue: 0,0:19:21.92,0:19:27.92,Default,,0,0,0,,Todėl kad netgi Viešpats Šiva negali atsakyti savo sūnui.
 Dialogue: 0,0:20:00.48,0:20:03.98,Default,,0,0,0,,Mano pagarba, motule!
-Dialogue: 0,0:20:06.80,0:20:08.40,Default,,0,0,0,,Tai tavo sūnus?
-Dialogue: 0,0:20:08.44,0:20:12.44,Default,,0,0,0,,Maharadž, jis ne mano, o mūsų!
-Dialogue: 0,0:20:13.64,0:20:16.84,Default,,0,0,0,,prieš 25 metus, kai aš pasiėmiau savo vaikelį su savimi,
-Dialogue: 0,0:20:16.88,0:20:19.38,Default,,0,0,0,,aš pažadėjau,
+Dialogue: 0,0:20:06.80,0:20:08.40,Default,,0,0,0,,Čia tavo sūnus?
+Dialogue: 0,0:20:08.44,0:20:12.44,Default,,0,0,0,,Maharadžai, ne mano, o mūsų!
+Dialogue: 0,0:20:13.64,0:20:16.84,Default,,0,0,0,,Prieš dvidešimt penkerius  metus pasiėmusi vaikelį su savimi,
+Dialogue: 0,0:20:16.88,0:20:19.38,Default,,0,0,0,,pažadėjau,
 Dialogue: 0,0:20:19.76,0:20:24.76,Default,,0,0,0,,kad išauklėsiu Devavratą tavęs vertu palikuoniu.
 Dialogue: 0,0:20:26.00,0:20:29.00,Default,,0,0,0,,Devavrata, sūnau mano...
 Dialogue: 0,0:20:38.56,0:20:41.06,Default,,0,0,0,,Mano sūnus...,
-Dialogue: 0,0:20:41.84,0:20:45.84,Default,,0,0,0,,Tu seniai gyveni mano širdyje!
-Dialogue: 0,0:20:51.00,0:20:54.00,Default,,0,0,0,,Sūnau, tu nežinai.
-Dialogue: 0,0:20:54.60,0:20:59.10,Default,,0,0,0,,bet aš laukiau tavęs tiek dienų ir naktų!
-Dialogue: 0,0:21:00.92,0:21:06.42,Default,,0,0,0,,Maharadž, mūsų sūnus mokėsi pas patį viešpatį Parašuramą!
+Dialogue: 0,0:20:41.84,0:20:45.84,Default,,0,0,0,,Visada nešiojausi tave širdyje!
+Dialogue: 0,0:20:51.00,0:20:54.00,Default,,0,0,0,,Sūnau, tu nežinai,
+Dialogue: 0,0:20:54.60,0:20:59.10,Default,,0,0,0,,bet aš tavęs laukiau tiek dienų ir naktų!
+Dialogue: 0,0:21:00.92,0:21:06.42,Default,,0,0,0,,Maharadžai, mūsų sūnus mokėsi pas patį viešpatį Parašuramą!
 Dialogue: 0,0:21:06.80,0:21:09.64,Default,,0,0,0,,Aš įvykdžiau savo pažadą!
-Dialogue: 0,0:21:09.68,0:21:13.48,Default,,0,0,0,,Ganga visada įvykdo savo pažadus.
+Dialogue: 0,0:21:09.68,0:21:13.48,Default,,0,0,0,,Ganga visada įvykdo pažadus.
 Dialogue: 0,0:21:13.52,0:21:14.88,Default,,0,0,0,,Bet man nepasisekė,
-Dialogue: 0,0:21:14.92,0:21:17.92,Default,,0,0,0,,aš neįvykdžiau pažado, kurį daviau tau!
+Dialogue: 0,0:21:14.92,0:21:17.92,Default,,0,0,0,,aš neįvykdžiau tau duoto pažado!
 Dialogue: 0,0:21:18.04,0:21:20.54,Default,,0,0,0,,Juk dabar
-Dialogue: 0,0:21:20.72,0:21:23.12,Default,,0,0,0,,tu galėtum būti mano žmona
-Dialogue: 0,0:21:23.16,0:21:25.80,Default,,0,0,0,,ir Hastinapūro karaliene!
-Dialogue: 0,0:21:25.84,0:21:28.34,Default,,0,0,0,,Aš paprašiau tavęs tokio pasižadėjimo,
-Dialogue: 0,0:21:28.40,0:21:30.76,Default,,0,0,0,,kurį anksčiau ar vėliau tu vistiek būtum sulaužęs.
-Dialogue: 0,0:21:30.80,0:21:34.60,Default,,0,0,0,,O kas dėl buvimo karaliene...
-Dialogue: 0,0:21:34.64,0:21:39.14,Default,,0,0,0,,upė ir taip visų savo krantų vietų karalienė!
+Dialogue: 0,0:21:20.72,0:21:23.12,Default,,0,0,0,,galėtum būti mano žmona
+Dialogue: 0,0:21:23.16,0:21:25.80,Default,,0,0,0,,ir Hastinapūro karalienė!
+Dialogue: 0,0:21:25.84,0:21:28.34,Default,,0,0,0,,Aš paprašiau tavęs duoti pažadą,
+Dialogue: 0,0:21:28.40,0:21:30.76,Default,,0,0,0,,kurį anksčiau ar vėliau vis tiek būtum sulaužęs.
+Dialogue: 0,0:21:30.80,0:21:34.60,Default,,0,0,0,,O karalienės titulas...
+Dialogue: 0,0:21:34.64,0:21:39.14,Default,,0,0,0,,Upė ir taip yra visų savo krantų karalienė!
 Dialogue: 0,0:21:44.04,0:21:46.54,Default,,0,0,0,,Mama!
 Dialogue: 0,0:21:47.88,0:21:50.76,Default,,0,0,0,,Aš nepalieku tavęs, sūneli!
-Dialogue: 0,0:21:50.80,0:21:52.92,Default,,0,0,0,,Kada tu bepakviestum mane,
-Dialogue: 0,0:21:52.96,0:21:55.96,Default,,0,0,0,,aš pasirodysiu tau!
-Dialogue: 0,0:21:56.00,0:22:00.00,Default,,0,0,0,,O dabar... tu turi eiti su tėvu!
+Dialogue: 0,0:21:50.80,0:21:52.92,Default,,0,0,0,,Kada mane bepakviestum,
+Dialogue: 0,0:21:52.96,0:21:55.96,Default,,0,0,0,,aš tau pasirodysiu!
+Dialogue: 0,0:21:56.00,0:22:00.00,Default,,0,0,0,,O dabar... eik su tėvu!
 Dialogue: 0,0:22:00.72,0:22:04.36,Default,,0,0,0,,Tavo gyvenimo tikslas - tarnauti jam.
 Dialogue: 0,0:22:04.40,0:22:07.40,Default,,0,0,0,,Klausau, mama.
-Dialogue: 0,0:22:40.20,0:22:44.70,Default,,0,0,0,,Pažiūrėkite, čia eina karalius Šantanu!
-Dialogue: 0,0:22:44.74,0:22:47.24,Default,,0,0,0,,Maharadž?
-Dialogue: 0,0:22:52.00,0:22:53.50,Default,,0,0,0,,Maharadž Šantanu,
-Dialogue: 0,0:22:53.56,0:22:56.44,Default,,0,0,0,,ką švenčia šiandien Hastinapūras?
+Dialogue: 0,0:22:40.20,0:22:44.70,Default,,0,0,0,,Pažiūrėkite - eina karalius Šantanu!
+Dialogue: 0,0:22:44.74,0:22:47.24,Default,,0,0,0,,Maharadžai?
+Dialogue: 0,0:22:52.00,0:22:53.50,Default,,0,0,0,,Maharadžai Šantanu,
+Dialogue: 0,0:22:53.56,0:22:56.44,Default,,0,0,0,,ką šiandien švenčia Hastinapūras?
 Dialogue: 0,0:22:56.48,0:23:00.98,Default,,0,0,0,,Satjavati, šiandien grįžo mano sūnus.
-Dialogue: 0,0:23:03.16,0:23:05.56,Default,,0,0,0,,prieš 25 metus
-Dialogue: 0,0:23:05.60,0:23:10.50,Default,,0,0,0,,Ganga ištekėjo už manęs moters pavidalu.
-Dialogue: 0,0:23:10.56,0:23:14.16,Default,,0,0,0,,O kada gimė mūsų sūnus, ji išėjo ir pasiėmė jį su savimi.
-Dialogue: 0,0:23:14.20,0:23:17.50,Default,,0,0,0,,Bet ji pažadėjo man,
-Dialogue: 0,0:23:18.64,0:23:20.80,Default,,0,0,0,,kad kai mūsų sūnus taps suaugusiu,
-Dialogue: 0,0:23:20.84,0:23:23.84,Default,,0,0,0,,ji sugrąžins, jį man.
+Dialogue: 0,0:23:03.16,0:23:05.56,Default,,0,0,0,,Prieš dvidešimt penkerius  metus
+Dialogue: 0,0:23:05.60,0:23:10.50,Default,,0,0,0,,Ganga ištekėjo už manęs įgavusi moters pavidalą.
+Dialogue: 0,0:23:10.56,0:23:14.16,Default,,0,0,0,,O kai gimė mūsų sūnus, ji išėjo ir jį išsivedė.
+Dialogue: 0,0:23:14.20,0:23:17.50,Default,,0,0,0,,Bet pažadėjo man,
+Dialogue: 0,0:23:18.64,0:23:20.80,Default,,0,0,0,,kad kai mūsų sūnus suaugs,
+Dialogue: 0,0:23:20.84,0:23:23.84,Default,,0,0,0,,jį sugrąžins man.
 Dialogue: 0,0:23:25.64,0:23:27.76,Default,,0,0,0,,Ir šiandien
 Dialogue: 0,0:23:27.80,0:23:31.30,Default,,0,0,0,,ji įvykdė savo pažadą.
-Dialogue: 0,0:23:32.52,0:23:37.52,Default,,0,0,0,,Šiandien jis bus karūnuotas, kaip karūnos paveldėtojas.
+Dialogue: 0,0:23:32.52,0:23:37.52,Default,,0,0,0,,Šiandien jis bus karūnuotas kaip paveldėtojas.
 Dialogue: 0,0:23:37.64,0:23:40.64,Default,,0,0,0,,Satjavati!
-Dialogue: 0,0:23:42.56,0:23:46.56,Default,,0,0,0,,Einam gi, Satjavati! Aš čia atėjau tavęs.
-Dialogue: 0,0:23:46.64,0:23:50.64,Default,,0,0,0,,Kodėl tu taip žiūri į mane?
-Dialogue: 0,0:23:50.68,0:23:53.68,Default,,0,0,0,,Maharadž, kasdieną aš mačiau,
-Dialogue: 0,0:23:53.72,0:23:57.44,Default,,0,0,0,,kaip Jūsų veidas švyti laime, kai Jūs mane matote.
+Dialogue: 0,0:23:42.56,0:23:46.56,Default,,0,0,0,,Eime, Satjavati! Aš atėjau tavęs.
+Dialogue: 0,0:23:46.64,0:23:50.64,Default,,0,0,0,,Kodėl taip į mane žiūri?
+Dialogue: 0,0:23:50.68,0:23:53.68,Default,,0,0,0,,Maharadžai, aš kasdien mačiau,
+Dialogue: 0,0:23:53.72,0:23:57.44,Default,,0,0,0,,kaip Jūsų veidą nušviečia laimė mane išvydus.
 Dialogue: 0,0:23:57.48,0:23:59.48,Default,,0,0,0,,Bet šiandiena
-Dialogue: 0,0:23:59.52,0:24:01.88,Default,,0,0,0,,Jūs atėjote švytintis iš laimės!
+Dialogue: 0,0:23:59.52,0:24:01.88,Default,,0,0,0,,Jūs jau atėjote švytintis iš laimės!
 Dialogue: 0,0:24:01.92,0:24:03.76,Default,,0,0,0,,Tu teisi.
-Dialogue: 0,0:24:03.80,0:24:06.72,Default,,0,0,0,,Aš labai laimingas šiandien.
-Dialogue: 0,0:24:06.76,0:24:10.36,Default,,0,0,0,,Greitai mano sūnus Devavrata, paveldės karūną.
-Dialogue: 0,0:24:10.40,0:24:12.40,Default,,0,0,0,,Po to
-Dialogue: 0,0:24:12.44,0:24:14.80,Default,,0,0,0,,aš tapsiu laisvas nuo visų pareigų,
-Dialogue: 0,0:24:14.84,0:24:19.60,Default,,0,0,0,,kad gyvenčiau su tavimi laimėje iki savo dienų galo.
-Dialogue: 0,0:24:19.64,0:24:23.72,Default,,0,0,0,,Ar padovanosi man laimę, tapdama mano žmona?
-Dialogue: 0,0:24:23.76,0:24:25.76,Default,,0,0,0,,Žinoma, Maharadž!
-Dialogue: 0,0:24:25.80,0:24:30.00,Default,,0,0,0,,Žmona laiminga, kai ji turi mylimą vyrą.
-Dialogue: 0,0:24:30.08,0:24:35.08,Default,,0,0,0,,Būti mylimai - moteriai pati didžiausia sėkmė!
-Dialogue: 0,0:24:35.20,0:24:40.20,Default,,0,0,0,,Aš palaiminta Jūsų meile, Maharadž.
-Dialogue: 0,0:24:41.52,0:24:43.92,Default,,0,0,0,,Pas mane
-Dialogue: 0,0:24:43.96,0:24:47.96,Default,,0,0,0,,nėra kitų troškimų, Maharadž!
-Dialogue: 0,0:24:48.00,0:24:52.00,Default,,0,0,0,,Pas mus bus namas ant upės kranto.
+Dialogue: 0,0:24:03.80,0:24:06.72,Default,,0,0,0,,Šiandien aš labai laimingas.
+Dialogue: 0,0:24:06.76,0:24:10.36,Default,,0,0,0,,Greitai mano sūnus Devavrata paveldės karūną.
+Dialogue: 0,0:24:10.40,0:24:12.40,Default,,0,0,0,,Kai tai įvyks,
+Dialogue: 0,0:24:12.44,0:24:14.80,Default,,0,0,0,,aš išsilaisvinsiu nuo visų pareigų
+Dialogue: 0,0:24:14.84,0:24:19.60,Default,,0,0,0,,ir galėsiu laimingai su tavimi gyventi iki dienų galo.
+Dialogue: 0,0:24:19.64,0:24:23.72,Default,,0,0,0,,Ar apdovanosi mane laime, ar tapsi mano žmona?
+Dialogue: 0,0:24:23.76,0:24:25.76,Default,,0,0,0,,Žinoma, Maharadžai!
+Dialogue: 0,0:24:25.80,0:24:30.00,Default,,0,0,0,,Žmona laiminga, kai turi mylimą vyrą.
+Dialogue: 0,0:24:30.08,0:24:35.08,Default,,0,0,0,,Mooteriai būti mylimai - pati didžiausia sėkmė!
+Dialogue: 0,0:24:35.20,0:24:40.20,Default,,0,0,0,,Mane laimina Jūsų meilė, Maharadžai.
+Dialogue: 0,0:24:41.52,0:24:43.92,Default,,0,0,0,,Aš neturiu
+Dialogue: 0,0:24:43.96,0:24:47.96,Default,,0,0,0,, kitų troškimų, Maharadžai!
+Dialogue: 0,0:24:48.00,0:24:52.00,Default,,0,0,0,,Mes turėsime namą ant upės kranto.
 Dialogue: 0,0:24:52.84,0:24:55.12,Default,,0,0,0,,Jūs žvejosite.
-Dialogue: 0,0:24:55.16,0:24:59.16,Default,,0,0,0,,O aš pardavinėsiu Jūsų laimikį mieste.
-Dialogue: 0,0:25:01.52,0:25:04.08,Default,,0,0,0,,Kodėl Jūs juokiatės, Maharadž?
-Dialogue: 0,0:25:04.12,0:25:07.76,Default,,0,0,0,,Aš įsivaizduoju, kaip Hastinapūro karalienė
+Dialogue: 0,0:24:55.16,0:24:59.16,Default,,0,0,0,,O aš mieste pardavinėsiu laimikį.
+Dialogue: 0,0:25:01.52,0:25:04.08,Default,,0,0,0,,Ko Jūs juokiatės, Maharadžai?
+Dialogue: 0,0:25:04.12,0:25:07.76,Default,,0,0,0,,Bandau įsivaizduoti, kaip Hastinapūro karalienė
 Dialogue: 0,0:25:07.80,0:25:11.76,Default,,0,0,0,,stovi prie kelio ir pardavinėja žuvį!
 Dialogue: 0,0:25:11.80,0:25:14.80,Default,,0,0,0,,Ką pagalvos mūsų pavaldiniai?
-Dialogue: 0,0:25:14.84,0:25:17.12,Default,,0,0,0,,Maharadž, bet karalienė - tai ta,
-Dialogue: 0,0:25:17.16,0:25:20.12,Default,,0,0,0,,kurios sūnus yra soste!
-Dialogue: 0,0:25:20.16,0:25:24.66,Default,,0,0,0,,Visos kitos yra tiesiog tarnaitės.
-Dialogue: 0,0:25:26.84,0:25:31.34,Default,,0,0,0,,Vietoj to kad patarnauti Hastinapūro rūmuose,
-Dialogue: 0,0:25:32.52,0:25:34.44,Default,,0,0,0,,geriau aš užsiimsiu žvejyba,
+Dialogue: 0,0:25:14.84,0:25:17.12,Default,,0,0,0,,Maharadžai, bet karalienė - tai ta,
+Dialogue: 0,0:25:17.16,0:25:20.12,Default,,0,0,0,,kurios sūnus sėdi soste!
+Dialogue: 0,0:25:20.16,0:25:24.66,Default,,0,0,0,,Kitu atveju moteris yra tiktai tarnaitė.
+Dialogue: 0,0:25:26.84,0:25:31.34,Default,,0,0,0,,Užuot patarnavusi Hastinapūro rūmuose,
+Dialogue: 0,0:25:32.52,0:25:34.44,Default,,0,0,0,,geriau užsiimsiu žvejyba,
 Dialogue: 0,0:25:34.48,0:25:38.98,Default,,0,0,0,,kaip tai visą gyvenimą darė mano tėvas.
-Dialogue: 0,0:25:39.60,0:25:43.88,Default,,0,0,0,,Maharadž, aš pamilau Jus, be jokio išskaičiavimo.
-Dialogue: 0,0:25:43.92,0:25:47.68,Default,,0,0,0,,Bet savigarba labai brangi man!
+Dialogue: 0,0:25:39.60,0:25:43.88,Default,,0,0,0,,Maharadžai, aš pamilau Jus be jokio išskaičiavimo.
+Dialogue: 0,0:25:43.92,0:25:47.68,Default,,0,0,0,,Bet savigarba man labai brangi!
 Dialogue: 0,0:25:47.72,0:25:49.64,Default,,0,0,0,,Kai tapsiu Jūsų žmona,
-Dialogue: 0,0:25:49.68,0:25:53.96,Default,,0,0,0,,mano garbė taps Jūsų garbe, Maharadž.
-Dialogue: 0,0:25:54.00,0:25:58.00,Default,,0,0,0,,Mane purto nuo minčių apie mūsų ateitį, Maharadž!
-Dialogue: 0,0:25:58.04,0:26:00.54,Default,,0,0,0,,Kada Devavrata ves,
-Dialogue: 0,0:26:00.58,0:26:03.58,Default,,0,0,0,,tai kokia bus mano padėtis, Maharadž!
+Dialogue: 0,0:25:49.68,0:25:53.96,Default,,0,0,0,,mano garbė taps Jūsų garbe, Maharadžai.
+Dialogue: 0,0:25:54.00,0:25:58.00,Default,,0,0,0,,Mane purto nuo minčių apie mūsų ateitį, Maharadžai!
+Dialogue: 0,0:25:58.04,0:26:00.54,Default,,0,0,0,,Kai Devavrata ves,
+Dialogue: 0,0:26:00.58,0:26:03.58,Default,,0,0,0,, kokia bus mano padėtis, Maharadžai!
 Dialogue: 0,0:26:03.64,0:26:06.44,Default,,0,0,0,,Čia aš - žvejų karaliaus dukra.
 Dialogue: 0,0:26:06.48,0:26:08.12,Default,,0,0,0,,Bet Hastinapūre
 Dialogue: 0,0:26:08.16,0:26:12.16,Default,,0,0,0,,aš tapsiu karūnos paveldėtojo pamote.
 Dialogue: 0,0:26:12.40,0:26:15.40,Default,,0,0,0,,Ir kai jis gaus visą valdžią,
-Dialogue: 0,0:26:15.52,0:26:20.02,Default,,0,0,0,,pamotės padėtis bus blogesnė, netgi negu tarnaitės!
-Dialogue: 0,0:26:20.06,0:26:22.56,Default,,0,0,0,,Kokia bus mano sūnų padėtis?
+Dialogue: 0,0:26:15.52,0:26:20.02,Default,,0,0,0,,pamotės padėtis bus blogesnė netgi už tarnaitės!
+Dialogue: 0,0:26:20.06,0:26:22.56,Default,,0,0,0,,Kas laukia mano sūnų?
 Dialogue: 0,0:26:22.60,0:26:27.00,Default,,0,0,0,,Jie tik patarnaus Hastinapūro karaliui.
-Dialogue: 0,0:26:27.04,0:26:31.44,Default,,0,0,0,,Maharadž, medžio šešėlyje, medeliai žūva.
+Dialogue: 0,0:26:27.04,0:26:31.44,Default,,0,0,0,,Maharadžai, medžio šešėlyje medeliai nudžiūsta.
 Dialogue: 0,0:26:31.48,0:26:34.98,Default,,0,0,0,,Ten net žolė neauga.
-Dialogue: 0,0:26:36.20,0:26:40.70,Default,,0,0,0,,Aš negaliu atimti iš Devavratos jo teises ir atiduoti jas tavo sūnums.
-Dialogue: 0,0:26:40.74,0:26:42.64,Default,,0,0,0,,Bet, Maharadž!
-Dialogue: 0,0:26:42.68,0:26:45.08,Default,,0,0,0,,Devavrata atsirado neseniai.
-Dialogue: 0,0:26:45.12,0:26:48.52,Default,,0,0,0,,Anksčiau aš netgi nežinojau kad jis toks yra!
-Dialogue: 0,0:26:48.56,0:26:52.76,Default,,0,0,0,,Ir kada Jūs pažadėjote padaryti mane Hastinapūro karaliene,
-Dialogue: 0,0:26:52.80,0:26:56.56,Default,,0,0,0,,tai reiškė, kad mūsų sūnūs taps Hastinapūro princais.
-Dialogue: 0,0:26:56.60,0:27:00.36,Default,,0,0,0,,Kam tu man visa tai sakai, Satjavati?
+Dialogue: 0,0:26:36.20,0:26:40.70,Default,,0,0,0,,Aš negaliu atimti iš Devavratos jo teisių ir perduoti jas tavo sūnums.
+Dialogue: 0,0:26:40.74,0:26:42.64,Default,,0,0,0,,Bet, Maharadžai!
+Dialogue: 0,0:26:42.68,0:26:45.08,Default,,0,0,0,,Devavrata pasirodė neseniai.
+Dialogue: 0,0:26:45.12,0:26:48.52,Default,,0,0,0,,Iki tol aš netgi nežinojau, kad jis egzistuoja!
+Dialogue: 0,0:26:48.56,0:26:52.76,Default,,0,0,0,,Jei man pažadėjote Hastinapūro karalienės sostą,
+Dialogue: 0,0:26:52.80,0:26:56.56,Default,,0,0,0,,vadinasi, mūsų sūnūs turi tapti Hastinapūro princais.
+Dialogue: 0,0:26:56.60,0:27:00.36,Default,,0,0,0,,Kodėl šitaip kalbi, Satjavati?
 Dialogue: 0,0:27:00.40,0:27:05.40,Default,,0,0,0,,Devavrata taps Hastinapūro princu!
-Dialogue: 0,0:27:08.04,0:27:11.68,Default,,0,0,0,,Tokiu atveju aš beginklė, Maharadž.
+Dialogue: 0,0:27:08.04,0:27:11.68,Default,,0,0,0,,Tokiu atveju aš beginklė, Maharadžai.
 Dialogue: 0,0:27:11.72,0:27:15.08,Default,,0,0,0,,Po savo sūnaus karūnavimo
 Dialogue: 0,0:27:15.12,0:27:18.62,Default,,0,0,0,,Jūs galite grįžti čia...
-Dialogue: 0,0:27:19.56,0:27:22.68,Default,,0,0,0,,Bet aš sutiksiu gyventi Hastinapūre
+Dialogue: 0,0:27:19.56,0:27:22.68,Default,,0,0,0,,Bet Hastinapūre aš sutiksiu gyventi 
 Dialogue: 0,0:27:22.72,0:27:25.22,Default,,0,0,0,,tik kaip karalienė!
-Dialogue: 0,0:27:25.36,0:27:26.80,Default,,0,0,0,,Gaudydama auksinę žuvį
-Dialogue: 0,0:27:26.84,0:27:32.34,Default,,0,0,0,,per savo godumą, tu nutrynei savo rankas iki kraujo, Satjavati!
-Dialogue: 0,0:27:33.68,0:27:36.68,Default,,0,0,0,,per tavo godumą
-Dialogue: 0,0:27:37.00,0:27:41.50,Default,,0,0,0,,tavo širdis paskui pasrus krauju.
-Dialogue: 0,0:28:25.92,0:28:30.42,Default,,0,0,0,,Šlovė didžiąjam karaliui! Šlovė!
+Dialogue: 0,0:27:25.36,0:27:26.80,Default,,0,0,0,,Bežvejodama auksinę žuvį, apimta godumo,
+Dialogue: 0,0:27:26.84,0:27:32.34,Default,,0,0,0,, iki kraujo nusibraižei pirštus, Satjavati!
+Dialogue: 0,0:27:33.68,0:27:36.68,Default,,0,0,0,,Dėl to paties godumo
+Dialogue: 0,0:27:37.00,0:27:41.50,Default,,0,0,0,,tavo širdis pasrus krauju.
+Dialogue: 0,0:28:25.92,0:28:30.42,Default,,0,0,0,,Šlovė didžiajam karaliui! Šlovė!
 Dialogue: 0,0:29:33.56,0:29:36.06,Default,,0,0,0,,Tėve,
-Dialogue: 0,0:29:36.56,0:29:39.56,Default,,0,0,0,,ar Jums kas nors nutiko?
+Dialogue: 0,0:29:36.56,0:29:39.56,Default,,0,0,0,,ar kas nutiko?
 Dialogue: 0,0:29:41.56,0:29:45.76,Default,,0,0,0,,Man ... viskas gerai sūnau.
 Dialogue: 0,0:29:47.40,0:29:49.90,Default,,0,0,0,,Bet Jūsų veidas ...
 Dialogue: 0,0:29:49.94,0:29:51.44,Default,,0,0,0,,Nieko.
 Dialogue: 0,0:30:11.44,0:30:14.94,Default,,0,0,0,,Pavaldiniai ir dvariškiai!
 Dialogue: 0,0:30:15.56,0:30:18.56,Default,,0,0,0,,Šiandien aš, karalius Šantanu,
 Dialogue: 0,0:30:18.68,0:30:22.18,Default,,0,0,0,,skelbiu savo sūnų Devavratą
-Dialogue: 0,0:30:29.60,0:30:31.88,Default,,0,0,0,,Hastinapūro princu paveldėtoju!
+Dialogue: 0,0:30:29.60,0:30:31.88,Default,,0,0,0,,Hastinapūro įpėdiniu princu!
 Dialogue: 0,0:30:31.92,0:30:36.92,Default,,0,0,0,,Šlovė sosto paveldėtojui princui! Šlovė sosto paveldėtojui princui!
-Dialogue: 0,0:33:20.84,0:33:23.08,Default,,0,0,0,,Maharadž,juk karalienė - tai ta,
+Dialogue: 0,0:33:20.84,0:33:23.08,Default,,0,0,0,,Maharadžai,juk karalienė - tai ta,
 Dialogue: 0,0:33:23.12,0:33:25.72,Default,,0,0,0,,kurios sūnus užima sostą!
 Dialogue: 0,0:33:25.76,0:33:28.52,Default,,0,0,0,,Visos kitos yra tiesiog tarnaitės.
 Dialogue: 0,0:33:28.56,0:33:30.88,Default,,0,0,0,,Čia aš - žvejų karaliaus dukra.
-Dialogue: 0,0:33:30.92,0:33:34.92,Default,,0,0,0,,O Hastinapūre aš būsiu paveldinčio princo pamote.
-Dialogue: 0,0:33:35.00,0:33:37.08,Default,,0,0,0,,Todėl aš sutiksiu gyventi Hastinapūre
+Dialogue: 0,0:33:30.92,0:33:34.92,Default,,0,0,0,,O Hastinapūre būsiu sosto paveldėtojo pamotė.
+Dialogue: 0,0:33:35.00,0:33:37.08,Default,,0,0,0,,Todėl Hastinapūre sutiksiu gyventi 
 Dialogue: 0,0:33:37.12,0:33:39.62,Default,,0,0,0,,tik kaip karalienė!
 Dialogue: 0,0:34:31.84,0:34:34.34,Default,,0,0,0,,Tėve!
-Dialogue: 0,0:34:35.24,0:34:40.64,Default,,0,0,0,,Jeigu sūnus nemato, kad jo tėvo veidas apimtas liūdesio,
-Dialogue: 0,0:34:40.72,0:34:43.72,Default,,0,0,0,,reiškia - jis aklas.
-Dialogue: 0,0:34:46.80,0:34:50.30,Default,,0,0,0,,Kokia Jūsų liūdesio priežastis?
+Dialogue: 0,0:34:35.24,0:34:40.64,Default,,0,0,0,,Jeigu sūnus nemato, kad jo tėvo veidą užliejęs liūdesys,
+Dialogue: 0,0:34:40.72,0:34:43.72,Default,,0,0,0,,reiškia, jis aklas.
+Dialogue: 0,0:34:46.80,0:34:50.30,Default,,0,0,0,,Kas kelia Jums liūdesį?
 Dialogue: 0,0:34:52.88,0:34:55.16,Default,,0,0,0,,Galų gale ...
-Dialogue: 0,0:34:55.20,0:35:00.20,Default,,0,0,0,,Tėve, kokio vargo nesugebėtų įveikti Jūsų sūnus?
-Dialogue: 0,0:35:01.88,0:35:06.88,Default,,0,0,0,,Visi kalba, kad Devavrata, labai stiprus.
-Dialogue: 0,0:35:06.92,0:35:11.12,Default,,0,0,0,,Bet Jūsų liūdesys, pasirodė stipresnis už mane!
+Dialogue: 0,0:34:55.20,0:35:00.20,Default,,0,0,0,,Tėve, nuo kokio skausmo negalėtų išvaduoti Jūsų sūnus?
+Dialogue: 0,0:35:01.88,0:35:06.88,Default,,0,0,0,,Visi kalba, kad Devavrata labai stiprus.
+Dialogue: 0,0:35:06.92,0:35:11.12,Default,,0,0,0,,Bet Jūsų liūdesys pasirodė stipresnis už mane!
 Dialogue: 0,0:35:11.16,0:35:15.48,Default,,0,0,0,,Visi kalba, kad Devavrata viską žino.
-Dialogue: 0,0:35:15.52,0:35:20.02,Default,,0,0,0,,Bet aš nežinau, kaip padaryti mano tėvą laimingu!
+Dialogue: 0,0:35:15.52,0:35:20.02,Default,,0,0,0,,Bet aš nežinau, kaip suteikti savo tėvui laimės!
 Dialogue: 0,0:35:20.76,0:35:22.76,Default,,0,0,0,,Tada...
 Dialogue: 0,0:35:22.80,0:35:27.30,Default,,0,0,0,,kokia nauda iš mano jėgos ir mano žinių?
 Dialogue: 0,0:35:30.80,0:35:32.80,Default,,0,0,0,,Tėve!
-Dialogue: 0,0:35:33.76,0:35:38.26,Default,,0,0,0,,Kol aš nerasiu būdo, kaip padaryti Jus laimingu,
-Dialogue: 0,0:35:38.64,0:35:41.64,Default,,0,0,0,,aš nevalgysiu!
+Dialogue: 0,0:35:33.76,0:35:38.26,Default,,0,0,0,,Kol nerasiu būdo, kaip suteikti Jums laimės,
+Dialogue: 0,0:35:38.64,0:35:41.64,Default,,0,0,0,,aš badausiu!
 Dialogue: 0,0:35:42.08,0:35:44.58,Default,,0,0,0,,Ne, sūnau!
 Dialogue: 0,0:35:48.08,0:35:51.58,Default,,0,0,0,,Tu neprivalai duoti tokio įžado!
-Dialogue: 0,0:35:53.76,0:35:57.04,Default,,0,0,0,,Sūnu, mano kentėjimų priežastis - mano širdyje!
+Dialogue: 0,0:35:53.76,0:35:57.04,Default,,0,0,0,,Sūnau, mano kentėjimų priežastis - mano širdyje!
 Dialogue: 0,0:35:57.08,0:36:01.58,Default,,0,0,0,,Jūsų sūnus gali išpildyti visus Jūsų norus!
-Dialogue: 0,0:36:02.20,0:36:04.70,Default,,0,0,0,,Pasakykite man,
-Dialogue: 0,0:36:05.00,0:36:08.50,Default,,0,0,0,,kokie rūpesčiai taip prislėgė Jus!
+Dialogue: 0,0:36:02.20,0:36:04.70,Default,,0,0,0,,Pasakykite,
+Dialogue: 0,0:36:05.00,0:36:08.50,Default,,0,0,0,,kokie rūpesčiai Jus taip prislėgė!
 Dialogue: 0,0:36:09.52,0:36:11.84,Default,,0,0,0,,Aš išlaisvinsiu Jus nuo tų rūpesčių!
 Dialogue: 0,0:36:11.88,0:36:13.88,Default,,0,0,0,,Sūnau,
-Dialogue: 0,0:36:14.64,0:36:19.14,Default,,0,0,0,,aš nenoriu išsilaisvinti nuo šių kančių!
-Dialogue: 0,0:36:20.76,0:36:25.26,Default,,0,0,0,,Aš noriu išmokti kentėti šias kančias.
+Dialogue: 0,0:36:14.64,0:36:19.14,Default,,0,0,0,,aš nenoriu išsilaisvinti iš šių kančių!
+Dialogue: 0,0:36:20.76,0:36:25.26,Default,,0,0,0,,Aš tenoriu išmokti jas iškęsti.
 Dialogue: 0,0:36:26.08,0:36:28.58,Default,,0,0,0,,Ne, tėve!
-Dialogue: 0,0:36:29.92,0:36:34.42,Default,,0,0,0,,Jei Jūs, mano tėvas, kentėsite visą gyvenimą,
-Dialogue: 0,0:36:34.44,0:36:37.04,Default,,0,0,0,,aš negalėsiu to priimti!
-Dialogue: 0,0:36:37.08,0:36:41.58,Default,,0,0,0,,Aš privalau rasti Jūsų nelaimės priežastį,
-Dialogue: 0,0:36:42.16,0:36:46.16,Default,,0,0,0,,o taip pat būdą atsikratyti jos!
+Dialogue: 0,0:36:29.92,0:36:34.42,Default,,0,0,0,,Jeigu Jūs, mano tėvas, visą gyvenimą kentėsite,
+Dialogue: 0,0:36:34.44,0:36:37.04,Default,,0,0,0,,aš negalėsiu su tuo taikstytis!
+Dialogue: 0,0:36:37.08,0:36:41.58,Default,,0,0,0,,Privalau išsiaiškinti Jūsų nelaimės priežastį,
+Dialogue: 0,0:36:42.16,0:36:46.16,Default,,0,0,0,,ir rasti būdą, kaip jos atsikratyti!
 Dialogue: 0,0:36:48.72,0:36:51.22,Default,,0,0,0,,Devavrata!
 Dialogue: 0,0:36:53.24,0:36:55.24,Default,,0,0,0,,Sūnau...
 Dialogue: 0,0:37:19.40,0:37:23.40,Default,,0,0,0,,Kur aš galėčiau rasti ponią Satjavati?
 Dialogue: 0,0:37:46.68,0:37:48.00,Default,,0,0,0,,Mano pagarba, ponia!
-Dialogue: 0,0:37:48.04,0:37:50.00,Default,,0,0,0,,Kodėl Jūs atvykote čia?
+Dialogue: 0,0:37:48.04,0:37:50.00,Default,,0,0,0,,Ko Jūs čia atvykote?
 Dialogue: 0,0:37:50.04,0:37:54.04,Default,,0,0,0,,Aš atvykau prašyti Jūsų malonės.
-Dialogue: 0,0:37:54.76,0:37:58.88,Default,,0,0,0,,Mano tėvo laimė priklauso dabar tik nuo Jūsų!
-Dialogue: 0,0:37:58.92,0:38:02.08,Default,,0,0,0,,Mano tėvas begalo myli Jus!
-Dialogue: 0,0:38:02.12,0:38:06.52,Default,,0,0,0,,Be Jūsų jis nelaimingas ir pasimetęs!
-Dialogue: 0,0:38:06.56,0:38:09.72,Default,,0,0,0,,Jus neramina Jūsų tėvo nelaimingumas,
-Dialogue: 0,0:38:09.76,0:38:13.48,Default,,0,0,0,,bet nebūkit neteisingas man, prince!
-Dialogue: 0,0:38:13.52,0:38:18.02,Default,,0,0,0,,Aš taip pat nelaiminga nebūdama su juo!
-Dialogue: 0,0:38:18.56,0:38:23.56,Default,,0,0,0,,Jei išsiskyrimas sukelia jums abiems kančią,
-Dialogue: 0,0:38:26.08,0:38:30.08,Default,,0,0,0,,tai kokia jo priežastis?
+Dialogue: 0,0:37:54.76,0:37:58.88,Default,,0,0,0,,Mano tėvo laimė dabar Jūsų rankose!
+Dialogue: 0,0:37:58.92,0:38:02.08,Default,,0,0,0,,Mano tėvas be galo Jus myli!
+Dialogue: 0,0:38:02.12,0:38:06.52,Default,,0,0,0,,Be Jūsų jaučiasi nelaimingas ir pasimetęs!
+Dialogue: 0,0:38:06.56,0:38:09.72,Default,,0,0,0,,Jus neramina tėvo sielvartas,
+Dialogue: 0,0:38:09.76,0:38:13.48,Default,,0,0,0,,bet būkit man teisingas, prince!
+Dialogue: 0,0:38:13.52,0:38:18.02,Default,,0,0,0,,Aš irgi be jo jaučiuosi nelaiminga!
+Dialogue: 0,0:38:18.56,0:38:23.56,Default,,0,0,0,,Jei išsiskyrimas sukelia abiems kančią,
+Dialogue: 0,0:38:26.08,0:38:30.08,Default,,0,0,0,, kokia jo priežastis?
 Dialogue: 0,0:38:30.88,0:38:35.48,Default,,0,0,0,,Jei aš tapsiu Jūsų tėvo žmona, nuslopindama kitus savo norus,
-Dialogue: 0,0:38:35.52,0:38:38.08,Default,,0,0,0,,tai mano širdis sielvartaus amžinai,
-Dialogue: 0,0:38:38.12,0:38:40.72,Default,,0,0,0,,Aš niekada nerasiu ramybės!
-Dialogue: 0,0:38:40.76,0:38:43.52,Default,,0,0,0,,O tas, pas kurį nėra sieloje ramybės,
-Dialogue: 0,0:38:43.56,0:38:46.88,Default,,0,0,0,,niekada nesugebės padaryti kitų laimingais!
-Dialogue: 0,0:38:46.92,0:38:49.12,Default,,0,0,0,,Degančio medžio šešėlis
-Dialogue: 0,0:38:49.16,0:38:51.76,Default,,0,0,0,,krenta ant žemės,
-Dialogue: 0,0:38:51.80,0:38:55.44,Default,,0,0,0,,bet niekas nesugebės pasislėpti tokio medžio šešėlyje!
-Dialogue: 0,0:38:55.48,0:39:00.98,Default,,0,0,0,,Jūs nerimaujate, kad Jums kažko truks Hastinapūre?
-Dialogue: 0,0:39:01.04,0:39:03.76,Default,,0,0,0,,Aš galiu būti laiminga, tik ten kur mane gerbia.
-Dialogue: 0,0:39:03.80,0:39:05.48,Default,,0,0,0,,Bet kokia pagarba laukia manęs ten?
-Dialogue: 0,0:39:05.52,0:39:07.60,Default,,0,0,0,,Kokia mano padėtis bus Hastinapūre?
+Dialogue: 0,0:38:35.52,0:38:38.08,Default,,0,0,0,, mano širdis sielvartaus amžinai,
+Dialogue: 0,0:38:38.12,0:38:40.72,Default,,0,0,0,,aš niekada nerasiu ramybės!
+Dialogue: 0,0:38:40.76,0:38:43.52,Default,,0,0,0,,O tas, kuris neturi sielos ramybės,
+Dialogue: 0,0:38:43.56,0:38:46.88,Default,,0,0,0,,niekada nesugebės suteikti kitiems laimės!
+Dialogue: 0,0:38:46.92,0:38:49.12,Default,,0,0,0,,Degantis medis meta  šešėlį
+Dialogue: 0,0:38:49.16,0:38:51.76,Default,,0,0,0,, ant žemės,
+Dialogue: 0,0:38:51.80,0:38:55.44,Default,,0,0,0,,bet niekas negali po juo pasislėpti!
+Dialogue: 0,0:38:55.48,0:39:00.98,Default,,0,0,0,,Jūs nerimaujate, kad Hastinapūre Jums kažko trūks?
+Dialogue: 0,0:39:01.04,0:39:03.76,Default,,0,0,0,,Laiminga aš galiu būti tik ten, kur mane gerbia.
+Dialogue: 0,0:39:03.80,0:39:05.48,Default,,0,0,0,,O kokia pagarba manęs ten lauks?
+Dialogue: 0,0:39:05.52,0:39:07.60,Default,,0,0,0,,Kokia bus mano padėtis ?
 Dialogue: 0,0:39:07.64,0:39:09.14,Default,,0,0,0,,Kas aš ten būsiu?
 Dialogue: 0,0:39:09.20,0:39:12.44,Default,,0,0,0,,Jūs tapsite Hastinapūro karaliene.
-Dialogue: 0,0:39:12.48,0:39:13.84,Default,,0,0,0,,Jūs būsite karalienė-motina.
-Dialogue: 0,0:39:13.88,0:39:17.12,Default,,0,0,0,,Bet karalienė-motina - tai princo motina!
+Dialogue: 0,0:39:12.48,0:39:13.84,Default,,0,0,0,,Jūs būsite karalienė motina.
+Dialogue: 0,0:39:13.88,0:39:17.12,Default,,0,0,0,,Bet karalienė motina - tai princo motina!
 Dialogue: 0,0:39:17.16,0:39:19.84,Default,,0,0,0,,Aš priimsiu Jus kaip savo motiną.
-Dialogue: 0,0:39:19.88,0:39:22.96,Default,,0,0,0,,Aš gerbsiu Jus kaip savo motiną!
-Dialogue: 0,0:39:23.00,0:39:26.00,Default,,0,0,0,,Tai, kaip Jūs mane priimsite, tik sąlygotumas!
-Dialogue: 0,0:39:26.04,0:39:28.04,Default,,0,0,0,,Tai bus tik imitacija.
+Dialogue: 0,0:39:19.88,0:39:22.96,Default,,0,0,0,,Gerbsiu Jus kaip savo motiną!
+Dialogue: 0,0:39:23.00,0:39:26.00,Default,,0,0,0,,Jūsų elgesys tebus formalumas!
+Dialogue: 0,0:39:26.04,0:39:28.04,Default,,0,0,0,,Tik imitacija.
 Dialogue: 0,0:39:28.08,0:39:30.58,Default,,0,0,0,,Kaip šešėlis.
 Dialogue: 0,0:39:31.08,0:39:32.92,Default,,0,0,0,,O šešėlis...
-Dialogue: 0,0:39:32.96,0:39:37.46,Default,,0,0,0,,Visada bus per atstumą nuo šviesos!
+Dialogue: 0,0:39:32.96,0:39:37.46,Default,,0,0,0,,Visada laikosi per atstumą nuo šviesos!
 Dialogue: 0,0:39:37.52,0:39:39.02,Default,,0,0,0,,Ne, prince!
-Dialogue: 0,0:39:39.06,0:39:44.56,Default,,0,0,0,,Aš tapsiu dar nelaimingesnė, jeigu ištekėsiu už Jūsų tevo!
-Dialogue: 0,0:39:52.24,0:39:55.96,Default,,0,0,0,,Ta, kuri tapo brangi karaliaus Šantanu širdžiai,
-Dialogue: 0,0:39:56.00,0:39:59.50,Default,,0,0,0,,bus labai sėkminga!
-Dialogue: 0,0:39:59.84,0:40:04.84,Default,,0,0,0,,Kame gali būti Jūsų nesėkmė, kai Karalius taip myli Jus?
+Dialogue: 0,0:39:39.06,0:39:44.56,Default,,0,0,0,,Ištekėjusi už Jūsų tėvo, aš tapsiu dar nelaimingesnė!
+Dialogue: 0,0:39:52.24,0:39:55.96,Default,,0,0,0,,Tos, kuri brangi karaliaus Šantanu širdžiai,
+Dialogue: 0,0:39:56.00,0:39:59.50,Default,,0,0,0,,laukia didžiulė sėkmė!
+Dialogue: 0,0:39:59.84,0:40:04.84,Default,,0,0,0,,Argi gali patirti nesėkmę ta, kurią karalius taip myli?
 Dialogue: 0,0:40:05.04,0:40:09.04,Default,,0,0,0,,Ne, nieko blogo neatsitiks!
-Dialogue: 0,0:40:09.44,0:40:11.44,Default,,0,0,0,,Atsitiks, prince!
-Dialogue: 0,0:40:11.48,0:40:13.16,Default,,0,0,0,,Ir ne tik aš,
-Dialogue: 0,0:40:13.20,0:40:16.20,Default,,0,0,0,,bet ir mano vaikai bus nevykėliai!
-Dialogue: 0,0:40:16.24,0:40:19.00,Default,,0,0,0,,Jūsų sūnus taps karaliumi po Jūsų!
+Dialogue: 0,0:40:09.44,0:40:11.44,Default,,0,0,0,,Anaiptol, prince!
+Dialogue: 0,0:40:11.48,0:40:13.16,Default,,0,0,0,,Ir aš,
+Dialogue: 0,0:40:13.20,0:40:16.20,Default,,0,0,0,,ir mano vaikai būsime nevykėliai!
+Dialogue: 0,0:40:16.24,0:40:19.00,Default,,0,0,0,,Jūsų sūnus paveldės iš Jūsų karalystę!
 Dialogue: 0,0:40:19.04,0:40:23.04,Default,,0,0,0,,O kokia ateitis laukia mano vaikų?
-Dialogue: 0,0:40:23.12,0:40:26.68,Default,,0,0,0,,Jie netgi negalės išmokti žvejoti!
-Dialogue: 0,0:40:26.72,0:40:30.40,Default,,0,0,0,,Kariuomenėje jiems duos žemas pareigas,
-Dialogue: 0,0:40:30.44,0:40:32.72,Default,,0,0,0,,bet jiems teks priimti tai!
-Dialogue: 0,0:40:32.76,0:40:34.92,Default,,0,0,0,,Dėl Jūsų šlovės ir dėl Jūsų sūnaus
-Dialogue: 0,0:40:34.96,0:40:39.96,Default,,0,0,0,,jie atiduos savo gyvybę, kokiame nors kare. Ir tai viskas!
-Dialogue: 0,0:40:40.48,0:40:45.98,Default,,0,0,0,,Jūs norite pasakyti, kad tai aš - mano tėvo kančių priežastis?
-Dialogue: 0,0:40:47.48,0:40:50.24,Default,,0,0,0,,Dvidešimt penkis metus
-Dialogue: 0,0:40:50.28,0:40:54.28,Default,,0,0,0,,aš svajojau pamatyti savo tėvą!
-Dialogue: 0,0:40:55.88,0:41:00.88,Default,,0,0,0,,Aš svajojau apie jo meilę ir palaiminimus!
+Dialogue: 0,0:40:23.12,0:40:26.68,Default,,0,0,0,,Jie netgi neišmoks žvejoti!
+Dialogue: 0,0:40:26.72,0:40:30.40,Default,,0,0,0,,Kariuomenėje jiems skirs žemas pareigas,
+Dialogue: 0,0:40:30.44,0:40:32.72,Default,,0,0,0,,bet jiems teks su tuo taikstytis!
+Dialogue: 0,0:40:32.76,0:40:34.92,Default,,0,0,0,,Dėl Jūsų ir Jūsų sūnaus šlovės
+Dialogue: 0,0:40:34.96,0:40:39.96,Default,,0,0,0,,jie paguldys galvas kokiame nors kare. Ir viskas baigsis!
+Dialogue: 0,0:40:40.48,0:40:45.98,Default,,0,0,0,,Jūs norite pasakyti, kad tėvo kančių priežastis – aš pats?
+Dialogue: 0,0:40:47.48,0:40:50.24,Default,,0,0,0,,Dvidešimt penkerius metus
+Dialogue: 0,0:40:50.28,0:40:54.28,Default,,0,0,0,,svajojau pamatyti savo tėvą!
+Dialogue: 0,0:40:55.88,0:41:00.88,Default,,0,0,0,,Ilgėjausi jo meilės ir palaiminimų!
 Dialogue: 0,0:41:02.80,0:41:05.20,Default,,0,0,0,,O Jūs...
-Dialogue: 0,0:41:05.24,0:41:07.74,Default,,0,0,0,,Jūs kalbate man,
-Dialogue: 0,0:41:08.12,0:41:11.62,Default,,0,0,0,,kad per mane jį apleido sėkmė?
+Dialogue: 0,0:41:05.24,0:41:07.74,Default,,0,0,0,,Jūs sakote,
+Dialogue: 0,0:41:08.12,0:41:11.62,Default,,0,0,0,,kad sėkmė jį apleido  dėl mano kaltės ?
 Dialogue: 0,0:41:11.76,0:41:13.76,Default,,0,0,0,,Ne, prince!
 Dialogue: 0,0:41:13.84,0:41:16.72,Default,,0,0,0,,Jūs - jo sėkmė!
-Dialogue: 0,0:41:16.76,0:41:18.92,Default,,0,0,0,,Bet karalius Šantanu,
-Dialogue: 0,0:41:18.96,0:41:22.64,Default,,0,0,0,,gali patirti tik vieną iš dviejų malonumų.
+Dialogue: 0,0:41:16.76,0:41:18.92,Default,,0,0,0,,Bet karaliui Šantanu
+Dialogue: 0,0:41:18.96,0:41:22.64,Default,,0,0,0,,teks rinktis tik vieną iš dviejų malonumų.
 Dialogue: 0,0:41:22.68,0:41:26.00,Default,,0,0,0,,Arba jis gyvens rūmuose su savo sūnumi,
-Dialogue: 0,0:41:26.04,0:41:31.04,Default,,0,0,0,,arba - su savo žmona, kuklioje buveinėje.
-Dialogue: 0,0:41:31.08,0:41:36.08,Default,,0,0,0,,Jis negalės gauti abiejų malonumų vienu metu!
+Dialogue: 0,0:41:26.04,0:41:31.04,Default,,0,0,0,,arba kuklioje buveinėje  su savo žmona.
+Dialogue: 0,0:41:31.08,0:41:36.08,Default,,0,0,0,,Abiejų malonumų vienu metu jam nepatirti!
 Dialogue: 0,0:41:42.84,0:41:45.34,Default,,0,0,0,,Ne, ponia!
-Dialogue: 0,0:41:45.76,0:41:50.26,Default,,0,0,0,,Mano tėvas gaus ir vieną ir kitą!
-Dialogue: 0,0:41:51.84,0:41:54.84,Default,,0,0,0,,Jis gaus iškarto viską!
-Dialogue: 0,0:42:38.00,0:42:43.00,Default,,0,0,0,,Vertimas — Абхинанда дас
-Dialogue: 0,0:42:43.50,0:42:48.50,Default,,0,0,0,,Subtitrai — Маркушевич Павел
+Dialogue: 0,0:41:45.76,0:41:50.26,Default,,0,0,0,,Mano tėvas patirs ir viena, ir kita!
+Dialogue: 0,0:41:51.84,0:41:54.84,Default,,0,0,0,, Viską iš karto!
+Dialogue: 0,0:42:38.00,0:42:43.00,Default,,0,0,0,,Vertimas ir subtitrai — Albertas Laurinavičius 
+Dialogue: 0,0:42:43.50,0:42:48.50,Default,,0,0,0,,Redaktorius – Aušra Bagočiūnaitė
+
