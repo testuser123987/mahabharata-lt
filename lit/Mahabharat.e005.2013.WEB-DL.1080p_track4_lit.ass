@@ -14,7 +14,9 @@ Aegisub Video Aspect Ratio: c1.777778
 Last Style Storage: Default
 Video File: ../../Облако Mail.Ru/Махабхарата (мастера)/Mahabharat.HD.E005.mp4
 Video Zoom Percent: 0.375000
-Video Position: 14
+Scroll Position: 170
+Active Line: 178
+Video Position: 29621
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -35,14 +37,14 @@ Dialogue: 0,0:01:51.28,0:01:55.78,Default,,0,0,0,,Šiandien visas pasaulis panir
 Dialogue: 0,0:01:56.16,0:01:59.24,Default,,0,0,0,,Stok prieš mane!
 Dialogue: 0,0:01:59.28,0:02:03.28,Default,,0,0,0,,Aš, Bišma, kreipiuosi į tave!
 Dialogue: 0,0:02:03.56,0:02:05.80,Default,,0,0,0,,Įsakyk savo sūnui, mirties Dievui, Jamai,
-Dialogue: 0,0:02:05.84,0:02:10.34,Default,,0,0,0,,sugrąžinti gyvybę mano jaunesniajaam broliui!
+Dialogue: 0,0:02:05.84,0:02:10.34,Default,,0,0,0,,sugrąžinti gyvybę mano jaunesniajam broliui!
 Dialogue: 0,0:02:47.04,0:02:50.28,Default,,0,0,0,,Bišma, ką tu darai?
 Dialogue: 0,0:02:50.32,0:02:53.20,Default,,0,0,0,,Tu nori sunaikinti visatą?
 Dialogue: 0,0:02:53.24,0:02:56.84,Default,,0,0,0,,Viešpatie Surja, dabar manęs nejaudina visatos likimas!
 Dialogue: 0,0:02:56.88,0:03:01.88,Default,,0,0,0,,Aukščiausiasis be jokios priežasties nubaudė mano šeimą!
 Dialogue: 0,0:03:02.52,0:03:04.68,Default,,0,0,0,,Mano tėvas ir mano protėviai verkia,
 Dialogue: 0,0:03:04.72,0:03:08.22,Default,,0,0,0,,žiūrėdami į mus nuo debesų!
-Dialogue: 0,0:03:08.48,0:03:13.44,Default,,0,0,0,,Didelėmis pastangomis ir meile jir kūrė šią karalystę!
+Dialogue: 0,0:03:08.48,0:03:13.44,Default,,0,0,0,,Didelėmis pastangomis ir meile jie kūrė šią karalystę!
 Dialogue: 0,0:03:13.48,0:03:15.00,Default,,0,0,0,,Kokią klaidą aš padariau?
 Dialogue: 0,0:03:15.04,0:03:17.96,Default,,0,0,0,,Kokią nuodėmę padarė mano protėviai?
 Dialogue: 0,0:03:18.00,0:03:21.48,Default,,0,0,0,,Bišma, aš negaliu atsakyti į tavo klausimus.
@@ -119,7 +121,7 @@ Dialogue: 0,0:10:03.08,0:10:05.88,Default,,0,0,0,,tam tikrus sprendimus karūnos
 Dialogue: 0,0:10:05.92,0:10:09.68,Default,,0,0,0,,Jūsų nenoras ir net atsisakymas
 Dialogue: 0,0:10:09.72,0:10:13.72,Default,,0,0,0,,negali įtakoti šių sprendimų.
 Dialogue: 0,0:10:21.68,0:10:25.08,Default,,0,0,0,,Nepamirškite, kad jūs - karalienės!
-Dialogue: 0,0:10:25.12,0:10:29.12,Default,,0,0,0,,Ir jūs privalote vykdyti pareigas,
+Dialogue: 0,0:10:25.12,0:10:29.12,Default,,0,0,0,,Ir  jūs privalote vykdyti pareigas,
 Dialogue: 0,0:10:29.60,0:10:32.60,Default,,0,0,0,,kurios jums priklauso.
 Dialogue: 0,0:11:34.40,0:11:36.32,Default,,0,0,0,,Viešpatie Parašurama!
 Dialogue: 0,0:11:36.36,0:11:40.80,Default,,0,0,0,,Jūs prisiekėte\Ngelbėti visus kenčiančius šiame pasaulyje.
@@ -149,11 +151,11 @@ Dialogue: 0,0:15:07.48,0:15:11.00,Default,,0,0,0,,Perduok taip pat vyriausiajam 
 Dialogue: 0,0:15:11.04,0:15:13.24,Default,,0,0,0,,kad mums gimė du princai.
 Dialogue: 0,0:15:13.28,0:15:15.84,Default,,0,0,0,,Tegul paskelbia iškilmes visoje karalystėje!
 Dialogue: 0,0:15:15.88,0:15:17.38,Default,,0,0,0,,Eik!
-Dialogue: 0,0:15:17.42,0:15:20.92,Default,,0,0,0,,Jū trys, karaliene-motina!
+Dialogue: 0,0:15:17.42,0:15:20.92,Default,,0,0,0,,Jų trys, karaliene-motina!
 Dialogue: 0,0:15:21.60,0:15:23.56,Default,,0,0,0,,Karalienės Ambikos tarnaitė
 Dialogue: 0,0:15:23.60,0:15:27.90,Default,,0,0,0,,dėl Vjasos malonės taip pat pagimdė sūnų!
 Dialogue: 0,0:15:41.24,0:15:42.96,Default,,0,0,0,,Štai...
-Dialogue: 0,0:15:43.00,0:15:45.64,Default,,0,0,0,,Nunešk tai tarnaitei\N, širdingus sveikinimus.
+Dialogue: 0,0:15:43.00,0:15:45.64,Default,,0,0,0,,Nunešk tai tarnaitei,\Nsu nuoširdžiais sveikinimais.
 Dialogue: 0,0:15:45.68,0:15:47.44,Default,,0,0,0,,Sūnaus gimimas pas tarną
 Dialogue: 0,0:15:47.48,0:15:51.48,Default,,0,0,0,,— tai ne priežastis šventėms.
 Dialogue: 0,0:15:56.52,0:16:00.00,Default,,0,0,0,,Perduok  Ajurvati,\Nkad dabar pat ateitų pas mane!
@@ -200,6 +202,6 @@ Dialogue: 0,0:19:33.44,0:19:35.24,Default,,0,0,0,,Laivelis paskęs!
 Dialogue: 0,0:19:35.28,0:19:37.72,Default,,0,0,0,,Mes negalim paskęsti!
 Dialogue: 0,0:19:37.76,0:19:40.88,Default,,0,0,0,,Kai mirtis padarė nuosprendį Ravanui,
 Dialogue: 0,0:19:40.92,0:19:44.80,Default,,0,0,0,,net akmenys plaukė vandenyno bangomis\Nir nepaskendo.
-Dialogue: 0,0:19:44.84,0:19:46.92,Default,,0,0,0,,Ru žinojai apie tai?
+Dialogue: 0,0:19:44.84,0:19:46.92,Default,,0,0,0,,Tu žinojai apie tai?
 Dialogue: 0,0:19:46.96,0:19:49.96,Default,,0,0,0,,Vertimas — Абхинанда дас
 Dialogue: 0,0:19:50.00,0:19:53.00,Default,,0,0,0,,Subtitrai — Маркушевич Павел
