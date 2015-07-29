@@ -12,11 +12,14 @@ Aegisub Video Aspect Ratio: c1.777778
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Video File: ../../Облако Mail.Ru/Махабхарата (мастера)/Mahabharat.HD.E007.mp4
+Audio File: ../../../Downloads/mahabharat.e008.2013.web-dl.1080p.mkv
+Video File: ../../../Downloads/mahabharat.e008.2013.web-dl.1080p.mkv
+Video AR Mode: 4
+Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
 Scroll Position: 170
-Active Line: 183
-Video Position: 29766
+Active Line: 174
+Video Position: 29263
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -198,7 +201,7 @@ Dialogue: 0,0:19:23.76,0:19:24.88,Default,,0,0,0,,Kieno tai kariuomenė?
 Dialogue: 0,0:19:24.92,0:19:27.04,Default,,0,0,0,,Mes pasiuntėme pasiuntinius, kad tai išsiaiškinti.
 Dialogue: 0,0:19:27.08,0:19:28.92,Default,,0,0,0,,Kareivis, kuris atnešė šią žinią,
 Dialogue: 0,0:19:28.96,0:19:30.48,Default,,0,0,0,,nematė tos kariuomenės vėliavos.
-Dialogue: 0,0:19:30.52,0:19:31.88,Default,,0,0,0,,Po kažkurio laiko ta kariuomenė bus čia?
+Dialogue: 0,0:19:30.52,0:19:31.88,Default,,0,0,0,,Po kiek laiko ta kariuomenė bus čia?
 Dialogue: 0,0:19:31.92,0:19:34.64,Default,,0,0,0,,Po 6-9 valandų, Maharadžai.
 Dialogue: 0,0:19:34.68,0:19:36.18,Default,,0,0,0,,Kur princas Šakunis?
 Dialogue: 0,0:19:36.22,0:19:37.72,Default,,0,0,0,,Jis išvykęs
